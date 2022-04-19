@@ -13,3 +13,12 @@ We have encrypted an image using 2 different algorithms ( whose details have bee
 
 ## The PS :
 
+![image](https://user-images.githubusercontent.com/86561124/163959542-01705860-5c4f-4c09-8fec-f5fea4002c6a.png)
+![image](https://user-images.githubusercontent.com/86561124/163959553-59914495-995e-443c-80cf-8cca6c38d0ce.png)
+![image](https://user-images.githubusercontent.com/86561124/163959563-f59af497-5920-4575-9e2a-0a8e28e72b74.png)
+![image](https://user-images.githubusercontent.com/86561124/163959599-6130c29a-0aae-4b8a-8c3a-cea4891e7dab.png)
+![image](https://user-images.githubusercontent.com/86561124/163959621-ac87ac3c-7d95-4b7c-8ac1-bf8082ae6b4c.png)
+![image](https://user-images.githubusercontent.com/86561124/163959633-02400e66-61a8-431b-a0e7-6f54af66748e.png)
+
+## Design 1 details :
+
