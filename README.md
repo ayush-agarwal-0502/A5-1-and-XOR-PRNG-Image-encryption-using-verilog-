@@ -38,5 +38,12 @@ Decrypted Image :
 
 ### Module for PRNG :
 
+Felt important to show hence added the images here , the rest of the code can be referred from the verilog files in this repository . The PRNG can be made by shifting all the values by one bit , and filling the vacant space by xor of combination of few selected bits . 
+
+![image](https://user-images.githubusercontent.com/86561124/163986831-685a00ef-0161-4026-a369-9b78d4084eda.png)
+
+![image](https://user-images.githubusercontent.com/86561124/163986839-a5ea2723-3fcf-44f5-92fc-274c095a2ef6.png)
+
+
 
 
