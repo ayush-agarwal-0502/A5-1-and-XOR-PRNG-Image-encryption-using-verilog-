@@ -23,3 +23,10 @@ We have encrypted an image using 2 different algorithms ( whose details have bee
 ## Design 1 details :
 
 Bits were generated using a Pseudo Random Number Generator (PRNG) ( Module for the same has been made and uploaded in the repo ) , and then XORed with the bits of the image . This process is the encryption part . For the decryption part we run the PRNG again and again XOR the same bits . This process decrypts the image since XORing the same number 2 times removes its effect on the original data bit . 
+
+Actual Image :
+
+![image](https://user-images.githubusercontent.com/86561124/163985959-46dfd64c-3c9d-49c6-b097-03a13485eebe.png)
+
+Image after encryption :
+
