@@ -28,5 +28,15 @@ Actual Image :
 
 ![image](https://user-images.githubusercontent.com/86561124/163985959-46dfd64c-3c9d-49c6-b097-03a13485eebe.png)
 
-Image after encryption :
+Encrypted Image :
+
+![image](https://user-images.githubusercontent.com/86561124/163986081-eed920fb-38d4-450b-8c74-aa9982bc454a.png)
+
+Decrypted Image :
+
+![image](https://user-images.githubusercontent.com/86561124/163986127-df3e02f5-ae36-4f1f-b4d4-14312a043de5.png)
+
+### Module for PRNG :
+
+
 
