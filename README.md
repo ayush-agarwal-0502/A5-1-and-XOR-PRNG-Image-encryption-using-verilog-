@@ -53,4 +53,22 @@ The basic idea of XORing remains the same here , expect that the bits to be XORe
 
 The implementation of A5/1 requires 64 bit secret key and 22 bit public key which are given in the PS ( I have made my own version of the algorithm tho , which dosent need the 22 bit public key ) 
 
+### Module for A5/1 Generator :
+
+Initializing the variables :
+
+![image](https://user-images.githubusercontent.com/86561124/164195024-35041857-55bd-4e12-857e-609136b8fb26.png)
+
+Majority function code ( yeah , even verilog has functions , got to know after this project ) :
+
+![image](https://user-images.githubusercontent.com/86561124/164195048-9a6338e2-beb2-4aa5-99a5-0adc79df93cb.png)
+
+The reset / initialisation conditions :
+
+![image](https://user-images.githubusercontent.com/86561124/164195125-a5975ea5-bb28-4761-a985-528ddd570086.png)
+
+The A5/1 Bit Generation code :
+
+![image](https://user-images.githubusercontent.com/86561124/164195133-329832ac-a694-40cb-b848-35150f66d2be.png)
+
 
